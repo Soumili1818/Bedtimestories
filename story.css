@@ -1,0 +1,58 @@
+header{
+    text-align: center;
+    font-size: 3em;
+    font-family:algerian;
+    font-stretch:extra-expanded;
+   color:rgb(109, 0, 131);
+   width: 100%;
+  text-shadow: mintcream;
+  top: 0%;
+  
+    
+}
+header:hover{
+    font-weight: inherit;
+    color: rgb(76, 0, 255);
+   text-shadow:5px 5px rgba(1, 0, 10, 0.548);
+   animation: ease-in-out;
+   animation-duration: 1s;
+}
+html
+{
+    height: 100%;
+    background: url("a.jpg");
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+    
+}
+p{
+    text-align: center;
+    font-family: cursive;
+    font-size: 2em;
+    padding: 0px;
+    margin : 0;
+}
+h2{
+ font-family: gigi;
+ font-size: 4em;
+ text-align: center;
+ color: rgb(0, 255, 13);
+ padding: 0px;
+ margin : 0;
+}
+h2:hover{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(153, 0, 255);
+}
+audio{
+  visibility: hidden;
+  
+}
+a{
+    text-decoration:wavy;
+}
